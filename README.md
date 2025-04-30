@@ -4,4 +4,4 @@ Typescript definitions for [aws-cognito-ops](https://github.com/CompAndSave/aws-
 
 ## Installation
 
-    npm install --save-dev @types/aws-cognito-ops
+    npm install --save-dev aws-cognito-ops-types

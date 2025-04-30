@@ -1,5 +1,5 @@
 {
-  "name": "@types/aws-cognito-ops",
+  "name": "aws-cognito-ops-types",
   "version": "1.0.0",
   "description": "Typescript definiitions for aws-cognito-ops",
   "license": "MIT",
