@@ -1,2 +1,7 @@
-# aws-cognito-ops-types
-Typescript definitions for aws-cognito-ops 
+# @types/aws-cognito-ops
+
+Typescript definitions for [aws-cognito-ops](https://github.com/CompAndSave/aws-cognito-ops)
+
+## Installation
+
+    npm install --save-dev @types/aws-cognito-ops

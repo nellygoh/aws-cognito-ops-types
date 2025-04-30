@@ -1,0 +1,20 @@
+{
+  "name": "@types/aws-cognito-ops",
+  "version": "1.0.0",
+  "description": "Typescript definiitions for aws-cognito-ops",
+  "license": "MIT",
+  "types": "index.d.ts",
+  "typesVersions": {
+    "*": {
+      "*": ["index.d.ts"]
+    }
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "Nelly Goh",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nellygoh/aws-cognito-ops-types"
+  }
+}
